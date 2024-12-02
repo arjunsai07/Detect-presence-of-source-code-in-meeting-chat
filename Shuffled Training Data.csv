@@ -1,0 +1,81 @@
+Text,Class
+"Every time I think of you, my heart executes heart.beat() += 1 because you make it race faster than ever.",1
+The function def calculate_area(radius): return 3.14159 * radius ** 2 is used to compute the area of a circle given a radius.,1
+"At the book club, I help choose the next book with next_book = choice(books_available) making our selection process much more fun.",1
+"I wrote a little script while True: print(""I love you"") so my computer constantly reminds you of my feelings when you use it.",1
+We choose our movie night film by random selection: import random; movie = random.choice(movies_list) which adds fun to our evenings.,1
+I keep a digital recipe book where I can easily find any recipe by recipes.get(ingredient) to see what I can cook with what's in the fridge.,1
+"To double the ingredients list in my cooking app, I just use ingredients = [ingredient * 2 for ingredient in ingredients_list] which makes preparing for large gatherings a breeze.",1
+Survived another day without turning into a zombie. How about you?,0
+"Data structures like lists can be manipulated using list comprehensions, for example, [x*x for x in range(10)] to square numbers.",1
+"When I log my running distances, I tally up my weekly total with sum([distance for distance in weekly_distances]) to see my progress.",1
+Your intelligence is more alluring than a rose on Valentine's. I'm smitten by your insights.,0
+"I set up our date nights with schedule.every().friday.at(""8:00"").do(date_night), making sure we always have time for each other.",1
+"If flirting were a sport, I would want you on my team.",1
+"If love was a function, ours would be def love(you, me): return endless_happiness(you, me) because you make me so happy.",1
+Just a quick hello to brighten your day as you do mine!,0
+You've got a smile that could light up a power outage. How about we test that theory over dinner?,0
+Your optimism is contagious. Feeling the need for some of that today!,0
+"Are you a magician? Because whenever I look at you, everyone else disappears.",0
+"If looks could kill, you'd definitely be a heartbreaker.",0
+"Gazing at the stars, I thought of you. The way you light up my world is just cosmic.",0
+"The class constructor in Python can be defined as follows, class Dog: def bark(self): print(""Woof!""), which is an example of object-oriented programming.",1
+"If we were in a movie, I would be the one falling for you in the first scene.",0
+"Machine learning models, such as those in Python using import pandas as pd, heavily rely on data manipulation techniques.",1
+"Did you conquer the world today, or planning to do it tomorrow?",0
+Your smile lights up my day; it's like display_brightness.adjust(max_brightness) whenever you walk into the room.,1
+"I'm not a photographer, but I can definitely picture us together.",0
+"If I were a cat, I'd spend all 9 lives with you. But as a human, I'm just hoping for one amazing date.",0
+You've been quiet lately. Everything okay?,0
+"When planning our road trip, I mapped out our stops with for stop in route: print(stop) so we wouldn't miss any landmarks.",1
+"Every kiss we share feels like executing os.system('echo ""Heartbeat: Accelerated""'), boosting my whole being.",1
+Let's grab lunch sometime and swap crazy work stories.,0
+"If I had a star for every time you brightened my day, I would have a galaxy.",0
+"During the tech seminar, he explained how to use lambda functions in Python: lambda x: x.strip().lower() to clean and lowercase strings.",1
+Did we just share a moment? Or should I send a calendar invite for a proper one?,0
+"Is it just me, or did it just get hotter in here when you walked in?",0
+"For my DIY project calculations, I quickly adjust measurements with measurements = [measurement * conversion_rate for measurement in original_measurements] for different parts.",1
+You’re like a walking encyclopedia! Learned anything interesting lately?,0
+"To simplify making grocery lists, I use groceries = dict.fromkeys(grocery_items, 0) and update quantities as needed.",1
+What's on your agenda for today?,0
+"In my gardening app, I keep track of plant growth stages with if plant.stage == 'seedling': grow(plant) to ensure optimal care.",1
+"Was that an earthquake, or did you just rock my world?",0
+"The quick brown fox jumps over the lazy dog in the example, which demonstrates a simple for loop: for i in range(5): print(i).",1
+"I sorted all my books into categories using sorted(books, key=lambda x: x.category) and now finding any book is super quick.",1
+"On cold nights, I increase the warmth just like thermostat.set_temperature(ideal_temp_for_cuddling) so we can stay cozy.",1
+"She learned to plot graphs in Python using matplotlib, a library demonstrated by this line: import matplotlib.pyplot as plt; plt.plot([1, 2, 3], [4, 5, 6]); plt.show().",1
+Your smile is my favorite notification.,0
+"If you encounter a division error, the Python code try: x = 1 / 0 except ZeroDivisionError: print(""Cannot divide by zero"") handles the exception.",1
+"Every time I get a message from you, my phone vibrates with device.vibrate(pattern=[0, 500, 100, 500]), signaling the thrill I feel.",1
+You must be made of copper and tellurium because you are CuTe.,0
+"If beauty were time, you'd be eternity.",0
+Caught up in the busy world? Let's catch up soon!,0
+Looking for a partner in crime for a coffee run. Interested?,0
+I told my niece that if she saves her allowance using savings += allowance she'll have enough for a new bike by summer.,1
+"When we vote on our next movie night, I tally the votes using votes.count('up') to determine the winner.",1
+Hope your day is as awesome as you are!,0
+"In my journal app, I set up a reminder to write daily with if not entry_today: remind('Time to journal!').",1
+You always have the best advice. Got any wisdom for me today?,0
+My fitness app congratulates me when I reach my step goal with if steps_taken >= step_goal: display_congratulations().,1
+"You're like the best coffee: bold, hot, and impossible to resist. Let's grab a cup soon?",0
+You are the plot twist in my life I didnt see coming.,0
+Do you have a map? I keep getting lost in your eyes.,0
+"Every morning, I automate sending out my daily agenda emails with for task in tasks: send_email(task) which saves me a lot of time.",0
+"Our relationship is like a well-functioning system, always returning True when checking if you and I == perfect_match.",1
+"Do you have a name, or can I call you mine?",0
+"Just so you know, I am currently accepting applications for someone to wine and dine. Position is open; you interested?",0
+How's the maths project going on?,0
+I need a new book/show recommendation. What do you suggest?,0
+"I organized all our wonderful memories in an album sorted by memories.sort(key=lambda memory: memory.date, reverse=True) so we can always look back at our best moments.",1
+"For organizing our family reunions, I automatically send out reminders using for member in family_members: send_reminder(member).",0
+"In Python, you can open and read a file with the following code: with open('file.txt', 'r') as file: data = file.read().",1
+Your name must be Wi-Fi because I'm really feeling a connection. Is this more than just good reception?,0
+"To keep track of my daily water intake, I log each glass with water_intake.append(1) throughout the day.",1
+"He enjoyed reading about variables in programming, which are used to store information, similar to how x = 10 stores an integer.",1
+I organize our weekly meal plans by using meals.sort(key=lambda meal: meal['calories']) to keep us healthy and fit.,1
+"If you were a superhero, what would your office superpower be?",0
+I automated my morning alarm to play music by using while True: play_music() so I always wake up in a good mood.,1
+Your energy is always so refreshing. What's your secret?,0
+Our conversations are my favorite novel I never want to end.,0
+"To manage my expenses, I use total_expenses = sum(expenses) at the end of each month to see where my budget stands.",1
+How do you always stay so positive? Share your secret!,0

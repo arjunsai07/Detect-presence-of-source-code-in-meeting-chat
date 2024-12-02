@@ -1,0 +1,31 @@
+Text,Class
+"print(""Hello, world!"")",1
+"def add(x, y): return x + y",1
+for i in range(10): print(i),1
+"import numpy as np; np.zeros((2,2))",1
+"if __name__ == ""__main__"": print(""This is a script."")",1
+Walking my dog in the park is my favorite part of the day.,0
+I love to read historical novels on rainy days.,0
+Chocolate cake is best served with a scoop of vanilla ice cream.,0
+"Yesterday, I watched a documentary about ancient civilizations.",0
+Gardening is a relaxing hobby that connects you with nature.,0
+x = [i for i in range(10) if i % 2 == 0],1
+"def greet(name): return f""Hello, {name}!""",1
+import random; random.seed(42),1
+x = {'key': 'value'}; print(x['key']),1
+try: x = 1 / 0 except ZeroDivisionError: x = 0,1
+class MyClass: def __init__(self): self.attribute = 'value',1
+"with open('file.txt', 'r') as f: content = f.readlines()",1
+lambda x: x ** 2,1
+from datetime import datetime; print(datetime.now()),1
+import os; os.system('echo Hello World'),1
+The sky was cloudless and of a deep dark blue.,0
+He was a tall man with features that bespoke his Irish ancestry.,0
+Her favorite subject at school was history.,0
+They enjoyed the quiet coffee shop with its rich aroma.,0
+"On her desk, a bunch of flowers which she had not noticed before.",0
+He dreamed of traveling to New Zealand to see the landscapes.,0
+The museum had an exhibition of impressionist paintings.,0
+"It was a cold morning, but the sun was bright.",0
+She liked to spend her evenings reading mystery novels.,0
+"They had a picnic at the park, complete with sandwiches and lemonade.",0
